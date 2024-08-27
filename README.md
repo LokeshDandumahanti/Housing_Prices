@@ -1,5 +1,8 @@
 # Housing_Prices
 
+### You can check out the working model hosted on hugging face :
+Hugging Face link : https://huggingface.co/spaces/Lokesh1024/BHP
+
 Hi. I am Lokesh Dandumahanti and today I am going to present my project of House price prediction under a mega-project of concept “Revolutionizing Real Estate: Making Buying and Renting as simple as Trading Stocks”. For this project I have taken Bengaluru Housing Data as training data. 
 
 
